@@ -18,7 +18,7 @@
   - **AI Tools** including `OpenAI APIs`, `LangChain`, `Hugging Face`  
 - 🧠 I enjoy exploring **new technologies** and building **cool projects**  
 - 🕵️ Always curious about how things work behind the scenes  
-- 🎮 When I'm not coding, you'll find me playing **chess** or **volleyball**, or cooking something new 🍳  
+- 🎮 When I'm not coding, you'll find me playing **volleyball**, or cooking something new 🍳  
 
 ---
 
