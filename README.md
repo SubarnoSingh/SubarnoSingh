@@ -1,50 +1,56 @@
-<h1 align="center">Hi 👋, I'm Subarno Singh</h1>
-<h3 align="center">Aspiring Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
+# 👋 Hi, I'm Subarno Singh  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subarno-singh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+💻 **B.Tech in Information Technology | Calcutta University**  
+🚀 **Aspiring Developer | Machine Learning & Flutter Enthusiast**  
 
 ---
 
-- 🔭 I’m currently pursuing **B.Tech in Information Technology** from **Calcutta University**  
-- 💻 I'm passionate about **development** and **cybersecurity**  
-- 🛡️ Future goal: Become a **part-time Pentester**  
-- 🌱 I’m currently learning:
-  - **Web Development**
-  - **Python**
-  - **Ethical Hacking Tools**
-  - **Machine Learning Libraries** like `scikit-learn`, `pandas`, `NumPy`
-  - **AI Tools** including `OpenAI APIs`, `LangChain`, `Hugging Face`  
-- 🧠 I enjoy exploring **new technologies** and building **cool projects**  
-- 🕵️ Always curious about how things work behind the scenes  
-- 🎮 When I'm not coding, you'll find me playing **volleyball**, or cooking something new 🍳  
+## 🌟 About Me  
+- 🔹 Currently learning and building projects using **Flutter**  
+- 🔹 Passionate about **Machine Learning, Deep Learning, and NLP**  
+- 🔹 Love working on tech projects that solve real-world problems  
+- 🔹 Enjoy volleyball 🏐 and cooking 🍳 in my free time  
 
 ---
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-informational?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-informational?style=flat&logo=huggingface&logoColor=white" />
-</p>
+## 🧠 Tech Stack & Skills  
+
+### 💼 Machine Learning & AI  
+- ML Algorithms (Regression, Classification, Clustering)  
+- Deep Learning (Neural Networks, CNNs, RNNs)  
+- NLP (Text Classification, Transformers, Embeddings)  
+- Data Preprocessing & Feature Engineering  
+- Python, NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch  
+
+### 📱 Flutter Development (Learning)  
+- Building cross-platform mobile apps  
+- UI/UX in Flutter  
+- Firebase basics  
+
+### 🛠️ Tools & Technologies  
+- Git, GitHub  
+- VS Code, Android Studio  
+- Linux (Arch BTW 😄), Terminal  
 
 ---
 
-### 📫 How to reach me:
-- 📧 Email: subarnopro01@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/subarnosingh01/
+## 📈 GitHub Stats  
+![Subarno’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=subarno-singh&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subarno-singh&layout=compact&theme=tokyonight)
+
 ---
 
-⭐️ Thanks for visiting my profile! Let's connect and grow together!
+## 🚀 Current Goals  
+- Improve Flutter development skills  
+- Build ML + app-based projects  
+- Publish useful open-source work  
 
+---
+
+## 📫 Connect with Me  
+- **GitHub:** [github.com/subarno-singh](https://github.com/subarno-singh)  
+- **LinkedIn:** [linkedin.com/in/subarnosingh01](https://www.linkedin.com/in/subarnosingh01/)  
+
+---
+
+⭐ _Thanks for visiting my profile!_  
