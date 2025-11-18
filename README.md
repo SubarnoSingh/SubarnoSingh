@@ -42,6 +42,11 @@
 
 ---
 
+## 🧩 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/subarnosingh?theme=dark&font=JetBrains%20Mono)
+
+---
+
 ## 🚀 Current Goals  
 - Improve Flutter development skills  
 - Build ML + app-based projects  
@@ -52,6 +57,7 @@
 ## 📫 Connect with Me  
 - **GitHub:** [github.com/SubarnoSingh](https://github.com/SubarnoSingh)  
 - **LinkedIn:** [linkedin.com/in/subarnosingh01](https://www.linkedin.com/in/subarnosingh01/)  
+- **LeetCode:** [leetcode.com/subarnosingh](https://leetcode.com/subarnosingh)  
 
 ---
 
