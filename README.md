@@ -27,7 +27,9 @@
 - UI/UX in Flutter  
 - Firebase basics  
 
-### 🛠️ Tools & Technologies  
+---
+
+## 🛠️ Tools & Technologies  
 - Git, GitHub  
 - VS Code, Android Studio  
 - Linux (Arch BTW 😄), Terminal  
@@ -35,8 +37,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Subarno’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=subarno-singh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subarno-singh&layout=compact&theme=tokyonight)
+![Subarno’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubarnoSingh&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubarnoSingh&layout=compact&theme=tokyonight)
 
 ---
 
@@ -48,7 +50,7 @@
 ---
 
 ## 📫 Connect with Me  
-- **GitHub:** [github.com/subarno-singh](https://github.com/subarno-singh)  
+- **GitHub:** [github.com/SubarnoSingh](https://github.com/SubarnoSingh)  
 - **LinkedIn:** [linkedin.com/in/subarnosingh01](https://www.linkedin.com/in/subarnosingh01/)  
 
 ---
