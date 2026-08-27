@@ -1,64 +1,125 @@
-# 👋 Hi, I'm Subarno Singh  
+# 👋 Hi, I'm Subarno Singh
 
-💻 **B.Tech in Information Technology | Calcutta University**  
-🚀 **Aspiring Developer | Machine Learning & Flutter Enthusiast**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Kotlin;Next.js+Full-Stack+Developer;Deep+Learning+Enthusiast;Building+Things+That+Actually+Work" />
+</p>
 
----
-
-## 🌟 About Me  
-- 🔹 Currently learning and building projects using **Flutter**  
-- 🔹 Passionate about **Machine Learning, Deep Learning, and NLP**  
-- 🔹 Love working on tech projects that solve real-world problems  
-- 🔹 Enjoy volleyball 🏐 and cooking 🍳 in my free time  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubarnoSingh&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## 🧠 Tech Stack & Skills  
+## 🧑‍💻 About Me
 
-### 💼 Machine Learning & AI  
-- ML Algorithms (Regression, Classification, Clustering)  
-- Deep Learning (Neural Networks, CNNs, RNNs)  
-- NLP (Text Classification, Transformers, Embeddings)  
-- Data Preprocessing & Feature Engineering  
-- Python, NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch  
+I'm a developer who enjoys turning ideas into real, usable software.
 
-### 📱 Flutter Development (Learning)  
-- Building cross-platform mobile apps  
-- UI/UX in Flutter  
-- Firebase basics  
+* 📱 Building **Android applications with Kotlin & Jetpack Compose**
+* 🌐 Developing **full-stack applications with Next.js**
+* ⚙️ Working with **Node.js, Express.js & MongoDB**
+* 🧠 Passionate about **Deep Learning, NLP & AI**
+* 🐧 Daily-driving **Linux / Arch Linux**
+* 🚀 Always experimenting with new technologies and building projects
 
 ---
 
-## 🛠️ Tools & Technologies  
-- Git, GitHub  
-- VS Code, Android Studio  
-- Linux (Arch BTW 😄), Terminal  
+## ⚡ Tech Stack
+
+### 📱 Android
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+</p>
+
+**Kotlin • Jetpack Compose • Android SDK • MVVM • Room • REST APIs**
+
+### 🌐 Full Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb" />
+</p>
+
+**Next.js • React • TypeScript • JavaScript • Node.js • Express • MongoDB**
+
+### 🧠 AI & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+**Python • NumPy • Pandas • Scikit-learn • TensorFlow • Keras • PyTorch • NLP • Transformers • RAG**
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
-![Subarno’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubarnoSingh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubarnoSingh&layout=compact&theme=tokyonight)
+## 🚀 Currently Building & Learning
+
+```text
+Android Development     ███████████████░░░░░  75%
+Next.js / Full Stack    ████████████████░░░░  80%
+Deep Learning           ████████████░░░░░░░░  60%
+System Design           ████████░░░░░░░░░░░░  40%
+```
+
+> Building projects is my preferred way of learning.
 
 ---
 
-## 🧩 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/subarnosingh?theme=dark&font=JetBrains%20Mono)
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubarnoSingh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubarnoSingh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 🚀 Current Goals  
-- Improve Flutter development skills  
-- Build ML + app-based projects  
-- Publish useful open-source work  
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SubarnoSingh&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
-- **GitHub:** [github.com/SubarnoSingh](https://github.com/SubarnoSingh)  
-- **LinkedIn:** [linkedin.com/in/subarnosingh01](https://www.linkedin.com/in/subarnosingh01/)  
-- **LeetCode:** [leetcode.com/subarnosingh](https://leetcode.com/subarnosingh)  
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ _Thanks for visiting my profile!_  
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubarnoSingh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SubarnoSingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/subarnosingh01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
