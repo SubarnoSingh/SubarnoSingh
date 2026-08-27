@@ -57,28 +57,6 @@ I'm a developer who enjoys turning ideas into real, usable software.
 
 ---
 
-## 🚀 Currently Building & Learning
-
-```text
-Android Development     ███████████████░░░░░  75%
-Next.js / Full Stack    ████████████████░░░░  80%
-Deep Learning           ████████████░░░░░░░░  60%
-System Design           ████████░░░░░░░░░░░░  40%
-```
-
-> Building projects is my preferred way of learning.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubarnoSingh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubarnoSingh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
